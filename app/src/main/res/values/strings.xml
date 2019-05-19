@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+
+    <string name="all_notes">显示所有笔记</string>
+    <string name="search_note">SearchByTitle</string>
+    <string name="setting">设置</string>
+    <string name="modify_note">修改</string>
+    <string name="add_note">添加笔记</string>
+    <string name="searchNote">查询</string>
+</resources>
